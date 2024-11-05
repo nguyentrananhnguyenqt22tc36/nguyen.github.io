@@ -9,7 +9,7 @@
 <body>
 	<header>
 		<div class="logo">
-    	  <img src="../logo.jpg" width="180" height="180" alt=""/>
+    	  <img src="../den.jpg" width="180" height="180" alt=""/>
 		</div>
 		<nav class="menu">
 			<ul>
